@@ -3,7 +3,8 @@
 I'm a passionate software developer with a strong background in baseband development, particularly in 5G NR technologies. Currently, I’m working at Tata Consultancy Services, where I’ve contributed to optimizing memory usage, improving system performance, and ensuring code quality. I’m always eager to learn new technologies and solve complex problems.
 
 ## 🔧 Skills & Technologies
-- **Programming Languages:** C/C++, C#, Java, Python, JavaScript, Shell Scripting, PHP, HTML, CSS
+- **Programming Languages:** C/C++  ![C++](https://img.shields.io/badge/Code-C++-blue), C#, Java, Python ![Python](https://img.shields.io/badge/Code-Python-yellow), JavaScript, Shell Scripting, PHP, HTML, CSS
+
 - **Frameworks:** Angular, React, Node.js
 - **Tools & Technologies:** Linux, Jenkins, EMCA-IDE, CodeChecker, Jira, NetScaler VM, Visual Studio
 - **Database:** MySQL, PostgreSQL, PL-SQL
