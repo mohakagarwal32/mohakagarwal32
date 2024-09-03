@@ -48,5 +48,8 @@ I'm a passionate software developer with a strong background in baseband develop
 
 ## 📫 Let's Connect!
 - **Email:** mohakagarwal32@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/mohak-agarwal/)
-- [GitHub](https://github.com/your-github-username)
+- **LinkedIn:** https://www.linkedin.com/in/mohak-agarwal/
+- **GitHub:** https://github.com/mohakagarwal32
+
+
+![Certified](https://img.shields.io/badge/Certified-Cloud_Computing-blue)
