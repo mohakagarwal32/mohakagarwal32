@@ -19,9 +19,6 @@ I'm currently open to new opportunities, including full-time roles, freelance pr
 - **Database:** MySQL, PostgreSQL, PL-SQL
 - **Other Expertise:** Cloud Computing, Cybersecurity, Machine Learning, Salesforce
 
-## 🎓 Education
-- **B.Tech in Computer Science and Engineering (Cloud Computing & Virtualization)** - GLA University, Mathura | CGPA: 7.07/10
-
 ## 🏆 Certifications
 - IBM Certified in Cloud Computing & Virtualization ![Certified](https://img.shields.io/badge/Certified-Cloud_Computing-blue)
 - Linux Administration Bootcamp – Udemy
