@@ -2,12 +2,18 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohakagarwal32)
 
-
 I'm a passionate software developer with a strong background in baseband development, particularly in 5G NR technologies. Currently, I’m working at Tata Consultancy Services, where I’ve contributed to optimizing memory usage, improving system performance, and ensuring code quality. I’m always eager to learn new technologies and solve complex problems.
+
+## 💼 Hire Me
+
+I'm currently open to new opportunities, including full-time roles, freelance projects, and collaborations. If you're interested in working together, please feel free to reach out!
+
+- **Email:** [mohakagarwal32@gmail.com](mailto:mohakagarwal32@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohak-agarwal/)
+- **Resume:** [View My Resume](https://drive.google.com/file/d/1cdXKzP87pKiNqtOR4XlCFiHEraM460_a/view?usp=sharing)
 
 ## 🔧 Skills & Technologies
 - **Programming Languages:** C/C++  ![C++](https://img.shields.io/badge/Code-C++-blue), C#, Java, Python ![Python](https://img.shields.io/badge/Code-Python-yellow), JavaScript, Shell Scripting, PHP, HTML, CSS
-
 - **Frameworks:** Angular, React, Node.js
 - **Tools & Technologies:** Linux, Jenkins, EMCA-IDE, CodeChecker, Jira, NetScaler VM, Visual Studio
 - **Database:** MySQL, PostgreSQL, PL-SQL
