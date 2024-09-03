@@ -13,22 +13,6 @@ I'm a passionate software developer with a strong background in baseband develop
 - **Database:** MySQL, PostgreSQL, PL-SQL
 - **Other Expertise:** Cloud Computing, Cybersecurity, Machine Learning, Salesforce
 
-## 🚀 Experience
-### Developer at Tata Consultancy Services | Mumbai
-**Baseband Development** (July 2022 – Present)
-- Architected and optimized the 5G NR codebase, significantly reducing memory usage and improving scalability.
-- Led efforts to replace deprecated tools, enhancing performance and code quality across the team.
-- Resolved over 1000 critical issues in C++ code, leading to improved application stability and reduced crash rates.
-- Developed a unified rule script for error detection, ensuring code integrity and enhancing development quality.
-
-**Ultimatix** (March 2022 – July 2022)
-- Designed and developed dynamic web pages, integrating JavaScript, Java, and SQL for seamless backend/frontend communication.
-- Leveraged PHP and Node.js to enhance backend performance, and used Angular and React for responsive frontend components.
-
-## 💼 Projects
-### Hotel Management Application
-- Developed a Salesforce application for hotel management, streamlining booking and reservation processes with custom objects and workflows.
-
 ## 📄 Research Paper
 - **Building Environmental Sustainability in Data Center**: Presented at the 5th International Conference on Information System and Computer Networks (ISCON) 2021.
 
