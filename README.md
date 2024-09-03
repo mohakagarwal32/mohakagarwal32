@@ -13,27 +13,21 @@ I'm a passionate software developer with a strong background in baseband develop
 - **Database:** MySQL, PostgreSQL, PL-SQL
 - **Other Expertise:** Cloud Computing, Cybersecurity, Machine Learning, Salesforce
 
-## 📄 Research Paper
-- **Building Environmental Sustainability in Data Center**: Presented at the 5th International Conference on Information System and Computer Networks (ISCON) 2021.
-
 ## 🎓 Education
 - **B.Tech in Computer Science and Engineering (Cloud Computing & Virtualization)** - GLA University, Mathura | CGPA: 7.07/10
 
 ## 🏆 Certifications
-- IBM Certified in Cloud Computing & Virtualization
+- IBM Certified in Cloud Computing & Virtualization ![Certified](https://img.shields.io/badge/Certified-Cloud_Computing-blue)
 - Linux Administration Bootcamp – Udemy
 - Generative AI Certification – LinkedIn
 - Cybersecurity & C/C++ Certification – LinkedIn
 
 ## 🏅 Achievements & Awards
 - Gold Medalist at IBM Ice Day (Technical Paper Presentation) - 2019
-- Cleared Round 1 of Best Ethical Hacker contest in TCS - 2023
+- Reached semi-finals of Best Ethical Hacker contest in TCS - 2023
 - Multiple Olympiad medals in English, Science, Cyber, and Mathematics
 
 ## 📫 Let's Connect!
 - **Email:** mohakagarwal32@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/mohak-agarwal/
 - **GitHub:** https://github.com/mohakagarwal32
-
-
-![Certified](https://img.shields.io/badge/Certified-Cloud_Computing-blue)
