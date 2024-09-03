@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohakagarwal32)
 
-I'm a passionate software developer with a strong background in baseband development, particularly in 5G NR technologies. Currently, I’m working at Tata Consultancy Services, where I’ve contributed to optimizing memory usage, improving system performance, and ensuring code quality. I’m always eager to learn new technologies and solve complex problems.
+I'm a passionate software developer with a strong background in baseband development, particularly in 5G NR technologies. Currently, I’m working at Tata Consultancy Services, where I’ve contributed to optimize memory usage, improving system performance, and ensuring code quality. I’m always eager to learn new technologies and solve complex problems.
 
 
 ## 💼 Open to Opportunities
@@ -56,9 +56,6 @@ I'm currently open to new opportunities, including full-time roles, freelance pr
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2D3436?style=flat-square&logo=hackaday&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 
 ## 🏆 Certifications:
@@ -79,7 +76,7 @@ I'm currently open to new opportunities, including full-time roles, freelance pr
 ## 🏅 Achievements & Awards
 - Gold Medalist at IBM Ice Day (Technical Paper Presentation) - 2019
 - Reached semi-finals of Best Ethical Hacker contest in TCS - 2023
-- Multiple Olympiad medals in English, Science, Cyber, and Mathematics
+- Multiple Olympiad medal holder in English, Science, Cyber, and Mathematics
 
 
 ## 📫 Let's Connect!
