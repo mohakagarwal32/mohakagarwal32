@@ -75,7 +75,7 @@ I'm currently open to new opportunities, including full-time roles, freelance pr
 
 ## 🏅 Achievements & Awards
 - Gold Medalist at IBM Ice Day (Technical Paper Presentation) - 2019
-- Reached semi-finals of Best Ethical Hacker contest in TCS - 2023
+- Secured a spot in the semi-finals of Best Ethical Hacker contest in TCS - 2023
 - Multiple Olympiad medal holder in English, Science, Cyber, and Mathematics
 
 
