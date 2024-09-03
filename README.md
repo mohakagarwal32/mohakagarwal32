@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Mohak Agarwal
 
+![Visitor Count](https://komarev.com/ghpvc/?username=mohakagarwal32)
+
+
 I'm a passionate software developer with a strong background in baseband development, particularly in 5G NR technologies. Currently, I’m working at Tata Consultancy Services, where I’ve contributed to optimizing memory usage, improving system performance, and ensuring code quality. I’m always eager to learn new technologies and solve complex problems.
 
 ## 🔧 Skills & Technologies
