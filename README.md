@@ -61,11 +61,19 @@ I'm currently open to new opportunities, including full-time roles, freelance pr
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 
-## 🏆 Certifications
-- IBM Certified in Cloud Computing & Virtualization ![Certified](https://img.shields.io/badge/Certified-Cloud_Computing-blue)
-- Linux Administration Bootcamp – Udemy
-- Generative AI Certification – LinkedIn
-- Cybersecurity & C/C++ Certification – LinkedIn
+## 🏆 Certifications:
+
+### IBM Certified in Cloud Computing & Virtualization:
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+### Linux Administration Bootcamp – Udemy:
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
+  
+### Generative AI Certification – LinkedIn:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+### Cybersecurity & C/C++ Certification – LinkedIn:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
 
 ## 🏅 Achievements & Awards
