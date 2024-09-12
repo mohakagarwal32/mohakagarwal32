@@ -11,7 +11,7 @@ I'm currently open to new opportunities, including full-time roles, freelance pr
 
 - **Email:** [mohakagarwal32@gmail.com](mailto:mohakagarwal32@gmail.com)
 - **LinkedIn:** [Mohak Agarwal](https://www.linkedin.com/in/mohak-agarwal/)
-- **Resume:** [View My Resume](https://drive.google.com/file/d/1K9Up3N5-OpsAOCGWlaVmkKYNchPJJAJ8/view?usp=sharing)
+- **Resume:** [View My Resume](https://drive.google.com/file/d/1IVmfMAvl4PmLnLhWGxnJSG_-63eNVgXl/view?usp=sharing)
 
 
 ## 💻 Skills & Technologies:
